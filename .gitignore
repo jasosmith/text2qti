@@ -125,3 +125,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project artifacts: ignore any files starting with "quiz_" anywhere
+quiz_*
+**/quiz_*
