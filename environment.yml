@@ -1,0 +1,10 @@
+name: text2qti
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - bespon>=0.7.0
+    - markdown>=3.4.4
+    - -e .
