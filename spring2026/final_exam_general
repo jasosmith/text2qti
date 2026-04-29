@@ -1,0 +1,721 @@
+Quiz title: PUBH 402 Final Exam — Draft Question Bank
+Quiz description: Draft bank for the PUBH 402 final exam. Mix of baseline factual items, short-scenario causal reasoning items, and misclassification/boundary items. Items can be pulled into question groups for randomized administration.
+
+% =====================================================================
+% SECTION 1 — BASELINE FACTUAL ITEMS (Organization, Financing, Payment)
+% These cover Course Learning Objectives 1 and 3 (describe organization
+% and financing; describe approaches across levels of care). Recall floor.
+% =====================================================================
+
+Title: B01 Medicare Part A
+Points: 1
+1.  A 70-year-old enrolled in traditional Medicare is admitted to a hospital for a hip replacement. Which part of Medicare primarily pays for the inpatient hospital stay?
+a)  Part B
+*b) Part A
+c)  Part C
+d)  Part D
+
+Title: B02 Medicaid financing structure
+Points: 1
+1.  Which statement best describes how Medicaid is financed in the United States?
+a)  It is fully funded by the federal government, with states administering benefits.
+*b) It is jointly financed by federal and state governments, with states administering the program within federal rules.
+c)  It is financed primarily through enrollee premiums, like Medicare Part B.
+d)  It is financed through a dedicated payroll tax, like Medicare Part A.
+
+Title: B03 ACA Medicaid expansion
+Points: 1
+1.  Under the Affordable Care Act, states that expanded Medicaid extended eligibility primarily to which group?
+a)  Children in households below 100% of the federal poverty level
+*b) Adults under 65 with incomes up to 138% of the federal poverty level
+c)  All uninsured adults regardless of income
+d)  Adults aged 55–64 only
+
+Title: B04 ESI dominant source
+Points: 1
+1.  Which is the largest single source of health insurance coverage for the non-elderly U.S. population?
+a)  Medicare
+b)  Medicaid
+*c) Employer-sponsored insurance
+d)  Direct-purchase individual market plans
+
+Title: B05 EMTALA
+Points: 1
+1.  Which federal law requires hospital emergency departments that participate in Medicare to screen and stabilize anyone who presents with an emergency medical condition, regardless of ability to pay?
+a)  HIPAA
+b)  ERISA
+*c) EMTALA
+d)  Stark Law
+
+Title: B06 Fee-for-service incentive
+Points: 1
+1.  In a fee-for-service payment model, the financial incentive most directly created for providers is to:
+a)  Reduce the volume of services delivered per patient
+*b) Increase the volume of billable services delivered
+c)  Improve population-level health outcomes
+d)  Lower per-patient total cost of care
+
+Title: B07 Capitation definition
+Points: 1
+1.  Under capitation, a provider organization is paid:
+a)  A separate fee for each service delivered to each patient
+*b) A fixed amount per enrolled patient over a defined period, regardless of services used
+c)  A bonus only when quality benchmarks are met
+d)  A bundled payment for an episode of care
+
+Title: B08 Bundled payment
+Points: 1
+1.  A bundled payment is best described as:
+a)  A single fixed payment for all care a patient receives in a year
+*b) A single payment covering all services associated with a defined episode of care
+c)  A capitated payment shared across primary care providers
+d)  A discount applied to fee-for-service rates after annual targets are met
+
+Title: B09 Value-based purpose
+Points: 1
+1.  Value-based payment models are designed primarily to:
+a)  Increase service volume
+b)  Replace Medicaid with a uniform federal program
+*c) Tie payment to measures of cost and quality rather than to volume alone
+d)  Eliminate the role of private insurers
+
+Title: B10 EPSDT
+Points: 1
+1.  The Medicaid Early and Periodic Screening, Diagnostic, and Treatment (EPSDT) benefit primarily serves which population?
+a)  Pregnant adults
+*b) Children and adolescents enrolled in Medicaid
+c)  Adults aged 65 and older
+d)  Dual-eligible beneficiaries
+
+Title: B11 340B
+Points: 1
+1.  The 340B Drug Pricing Program requires drug manufacturers participating in Medicaid to provide outpatient drugs at discounted prices to:
+a)  All retail pharmacies serving low-income patients
+*b) Eligible safety-net providers and certain hospitals
+c)  Medicare Part D plans
+d)  Veterans Health Administration facilities
+
+Title: B12 FQHC role
+Points: 1
+1.  Federally Qualified Health Centers (FQHCs) are best described as:
+a)  Public hospitals operated by state health departments
+*b) Community-based primary care providers that receive enhanced federal payment in exchange for serving medically underserved populations
+c)  Specialty referral centers funded by the National Institutes of Health
+d)  Private group practices that elect to follow Medicare rules
+
+Title: B13 ERISA preemption
+Points: 1
+1.  ERISA preemption is most relevant to state efforts to regulate which type of insurance arrangement?
+a)  State Medicaid managed care contracts
+*b) Self-funded employer health plans
+c)  Medicare Advantage plans
+d)  Federally facilitated marketplace plans
+
+Title: B14 Public health vs medical care
+Points: 1
+1.  Which of the following best distinguishes public health from medical care as institutional systems in the United States?
+a)  Public health is funded only by states; medical care is funded only by the federal government.
+*b) Public health primarily acts at the population level through surveillance, regulation, and prevention; medical care primarily acts at the individual level through diagnosis and treatment.
+c)  Public health uses fee-for-service payment; medical care uses capitation.
+d)  Public health serves only low-income populations; medical care serves everyone else.
+
+Title: B15 Scope of practice
+Points: 1
+1.  State scope-of-practice laws most directly determine:
+a)  How much Medicare pays for a given service
+*b) Which clinical services a given category of clinician is legally permitted to provide and under what supervision
+c)  Whether a hospital may participate in Medicaid
+d)  Whether a drug may be sold in interstate commerce
+
+Title: B16 Out-of-pocket cap Medicare
+Points: 1
+1.  Until recent reforms, traditional (Original) Medicare differed from most employer-sponsored plans in that it historically lacked:
+a)  Any coverage of inpatient hospital care
+*b) An annual out-of-pocket maximum for covered services
+c)  Coverage of physician visits
+d)  A premium structure
+
+Title: B17 PPS hospital
+Points: 1
+1.  Medicare's inpatient prospective payment system (IPPS) pays hospitals primarily on the basis of:
+a)  Itemized charges submitted by the hospital
+*b) Diagnosis-related groups that classify each admission
+c)  A fixed annual budget set by CMS
+d)  A per-day rate negotiated with each hospital
+
+Title: B18 Dual eligibles
+Points: 1
+1.  "Dual eligible" beneficiaries are individuals who are simultaneously enrolled in:
+a)  Medicare and an employer plan
+b)  Medicaid and CHIP
+*c) Medicare and Medicaid
+d)  TRICARE and the VA system
+
+Title: B20 Medicaid administration
+Points: 1
+1.  Within federal rules, which level of government has the most direct authority over how Medicaid eligibility is determined and benefits are structured day-to-day?
+a)  The federal Centers for Medicare & Medicaid Services
+*b) State Medicaid agencies
+c)  County departments of public health
+d)  Municipal hospital authorities
+
+
+% =====================================================================
+% SECTION 2 — SHORT-SCENARIO CAUSAL REASONING ITEMS
+% These mirror the Exam 1 design philosophy: short text scenarios that
+% test causal reasoning, feedback, delays, unintended consequences,
+% endogenous dynamics. Many are multiple-select; partial logic loses points.
+% These are the LLM-resistance core of the bank — answers depend on
+% reading the scenario, not on retrieving definitions.
+% =====================================================================
+
+Title: C01 ED boarding
+Points: 2
+1.  A health system invests heavily in expanding emergency department (ED) capacity in a region where ED visits per capita have been climbing for a decade. Two years later, ED wait times are essentially unchanged, and ED visits per capita have continued to rise. Which explanation is most consistent with a systems-level account of this pattern?
+a)  ED demand is fixed in the short run, so capacity expansions cannot affect wait times.
+*b) Capacity expansion has reduced upstream barriers to ED use without altering the conditions producing demand, leaving the underlying drivers of ED utilization intact.
+c)  Wait times are determined entirely by hospital staffing and are independent of patient volume.
+d)  ED wait times always rise with capacity expansion because of regulatory delays in licensing new beds.
+
+Title: C02 Insurance expansion and access
+Points: 2
+1.  Several years after a state expands Medicaid eligibility, surveys show that the share of low-income adults reporting they have a usual source of care has risen only modestly, despite a sharp drop in the uninsured rate. Which combination of system features best explains this pattern?
+[*] Limited primary care clinician supply in the areas with the largest coverage gains
+[*] Low Medicaid reimbursement that constrains provider willingness to accept new Medicaid patients
+[ ] An overall national decline in the prevalence of chronic disease
+[ ] A reduction in federal Medicaid matching rates following expansion
+[*] Continued non-financial barriers such as transportation and clinic hours
+
+Title: C03 Surveillance feedback
+Points: 2
+1.  A state public health department launches an aggressive new surveillance program for opioid-related overdoses, including improved data sharing with hospitals and coroners. Within 18 months, reported overdose deaths in the state rise sharply, even though independent indicators (EMS calls, naloxone use) are roughly flat. Which interpretation is most defensible?
+a)  The new surveillance has caused an increase in actual overdose deaths.
+*b) Improved surveillance has made existing overdose deaths more visible in official data; the underlying rate may not have changed substantially.
+c)  Independent indicators are unreliable and should be discounted.
+d)  Surveillance programs have no effect on reported counts of overdose deaths.
+
+Title: C04 Insurance churn
+Points: 2
+1.  A Medicaid program tightens documentation requirements for annual eligibility renewal in order to reduce administrative error rates. Two years later, the share of beneficiaries with a gap in coverage of one or more months has roughly doubled, while the share enrolled in any given month has fallen. Which best describes what happened structurally?
+a)  Tightening documentation reduced fraud without affecting access.
+*b) The rule change shifted coverage loss from a flow problem (signing up) to a churn problem (cycling on and off), with predictable effects on continuity of care.
+c)  Beneficiaries became less eligible because their incomes rose.
+d)  The federal government reduced its Medicaid match rate.
+
+Title: C05 Telehealth and parity
+Points: 2
+1.  A state passes a "telehealth payment parity" law requiring private insurers to pay the same rate for a telehealth visit as for an in-person visit. A health policy analyst predicts that this will improve access in rural areas. From a systems perspective, which of the following are reasonable concerns about whether parity alone will produce that outcome?
+[*] Rural broadband infrastructure may be insufficient to support reliable video visits.
+[*] Parity does not change the underlying supply of clinicians willing to serve rural patients.
+[*] Parity may shift visits from in-person to telehealth without adding new capacity, leaving total visits roughly unchanged.
+[ ] Parity automatically reduces hospital bed capacity in rural areas.
+[ ] Parity is preempted by ERISA and cannot affect any private insurance plan.
+
+Title: C06 Performative vs structural
+Points: 2
+1.  In response to a heat wave that produced a spike in heat-related ED visits and deaths, a city issues press releases urging residents to "check on neighbors" and "stay hydrated," and opens cooling centers during business hours on weekdays. From a systems perspective, this response is best characterized as:
+a)  A structural change to the underlying drivers of heat vulnerability
+*b) A primarily performative response that signals concern without altering housing quality, energy affordability, or labor protections that drive heat exposure
+c)  A policy that addresses occupational stratification by race and gender
+d)  A change in the rules governing Medicaid coverage of heat-related illness
+
+Title: C07 Workforce and reimbursement
+Points: 2
+1.  A state has a long-standing shortage of primary care clinicians in rural counties. The legislature responds by authorizing 50 new primary care residency slots at the state's academic medical center, located in the largest urban area. Five years later, rural primary care clinician supply is essentially unchanged. Which of the following best explain this outcome from a systems perspective?
+[*] Residency location strongly predicts eventual practice location, and the new slots are urban.
+[*] Reimbursement and practice support in rural settings remain unattractive relative to urban or specialty alternatives.
+[ ] Increasing residency slots has been shown to reduce overall clinician supply.
+[*] The intervention targeted training capacity rather than the conditions that determine where trained clinicians choose to practice.
+[ ] Rural patients no longer use primary care services.
+
+Title: C08 Drug pricing leverage
+Points: 2
+1.  A policy proposal would allow Medicare to negotiate prices on a small set of high-cost drugs. Critics argue this will reduce pharmaceutical innovation. Supporters argue it will lower drug spending without major effects on innovation. From a systems perspective, which is most accurate about what this proposal does and does not change?
+a)  It changes both the rules of payment and the underlying market concentration of the pharmaceutical industry.
+*b) It changes one set of payment rules for one payer for a narrow set of drugs; it does not directly change patent rules, market concentration, or the broader incentives that shape drug pricing in the U.S.
+c)  It is functionally identical to repealing patent protection for the negotiated drugs.
+d)  It eliminates Medicare Part D.
+
+Title: C09 Delay and policy frustration
+Points: 2
+1.  A state invests in expanded prenatal care services in counties with high rates of severe maternal morbidity. Three years later, severe maternal morbidity rates in those counties are essentially unchanged, and the legislature considers cutting the program. From a systems perspective, the strongest argument *against* immediate cuts is that:
+a)  Programs once funded should not be cut for political reasons.
+*b) The relevant outcome is shaped by long-acting structural conditions and accumulated risk; even effective interventions may take years to register in mortality and morbidity indicators, and short-term flatness is a weak basis for inference.
+c)  Severe maternal morbidity is impossible to measure reliably at the county level.
+d)  Cutting the program would violate ERISA preemption.
+
+Title: C10 Sanctions and enforcement gap
+Points: 2
+1.  A state agency is responsible for enforcing nursing home staffing minimums, but its administrative staffing has been reduced by 40% over five years and inspections occur on average once every 22 months. The legislature responds to a high-profile abuse case by raising statutory penalties for violations. From a systems perspective, the most likely effect of this response is:
+a)  A large reduction in violations because penalties are now higher.
+*b) Little change in observed compliance, because enforcement capacity — not the size of the penalty — is the binding constraint.
+c)  An immediate increase in nursing home closures.
+d)  A reduction in the number of dual-eligible beneficiaries.
+
+Title: C11 Risk selection
+Points: 2
+1.  A Medicare Advantage plan reports unusually low costs per enrollee compared to traditional Medicare. Which of the following are plausible system-level explanations that should be ruled out before concluding the plan is more efficient?
+[*] Favorable risk selection — the plan disproportionately enrolls healthier beneficiaries.
+[*] Coding intensity differences that increase risk-adjusted payment without changing care.
+[ ] The plan does not actually pay providers.
+[*] Network design that limits access to high-cost specialists or facilities.
+[ ] The plan is exempt from federal regulation.
+
+Title: C12 Endogenous data
+Points: 2
+1.  A county increases funding for child welfare investigations and adds investigative staff. Within two years, reported cases of child neglect rise sharply. A news headline reports that "neglect is surging." From a systems perspective, the most defensible interpretation is:
+a)  Underlying neglect has clearly increased.
+*b) The data are endogenous to the surveillance and enforcement system; increases in reported cases may reflect increased capacity to detect and record cases as much as, or more than, changes in underlying conditions.
+c)  Investigative staffing has no effect on reported counts.
+d)  The data prove that funding child welfare causes child neglect.
+
+Title: C13 Safety-net displacement
+Points: 2
+1.  An academic medical center opens a new outpatient clinic in a low-income neighborhood previously served primarily by a Federally Qualified Health Center (FQHC). One year later, the FQHC reports a 25% drop in commercially insured patients and a worsening payer mix. Which of the following best describes what is happening at the system level?
+a)  The FQHC has become less effective at delivering primary care.
+*b) The new clinic is selectively drawing better-insured patients away from the FQHC, weakening the FQHC's cross-subsidization of uninsured and Medicaid patients.
+c)  The FQHC has lost its 340B eligibility.
+d)  Medicaid enrollment has fallen.
+
+Title: C14 Coverage vs access
+Points: 2
+1.  A national policy reduces the uninsured rate from 16% to 9%. Two years later, evidence suggests that disparities in preventable hospitalizations between Black and white patients have not narrowed. Which of the following are consistent with a systems-level account of this finding?
+[*] Insurance coverage addresses one barrier among several; structural inequities shaping exposure, access, and clinical encounter quality remain.
+[*] Coverage gains may have been uneven across groups, with persistent gaps for the most affected populations.
+[ ] Insurance coverage has no effect on health.
+[*] Disparities are produced by reinforcing loops involving residential segregation, environmental exposure, and differential clinical treatment that a coverage policy does not directly disrupt.
+[ ] Disparities are entirely explained by differences in genetic risk.
+
+Title: C15 Capacity vs throughput
+Points: 2
+1.  A safety-net hospital adds 40 inpatient beds to address persistent ED boarding. Six months later, ED boarding times are unchanged. Which of the following is the most likely systems-level explanation?
+a)  Adding beds has no relationship to boarding.
+*b) Boarding is driven by throughput constraints (discharge planning, post-acute capacity, staffing) rather than by raw bed count, so adding beds without changing throughput leaves boarding unchanged.
+c)  The hospital should close the new beds.
+d)  EMTALA prohibits boarding.
+
+Title: C16 Information flow leverage
+Points: 2
+1.  A health system's clinicians repeatedly order duplicate imaging studies because results from outside facilities are not visible in the electronic record. Two interventions are proposed: (A) a new institutional policy reminding clinicians to ask patients about prior imaging, and (B) integration of the regional health information exchange so outside images appear automatically. From a leverage-points perspective, which is the stronger structural intervention and why?
+a)  A, because policies are easier to enforce than technology
+*b) B, because it changes the information flow that is the proximate driver of duplicate ordering, rather than relying on individual clinician memory under time pressure
+c)  A, because reminders always work
+d)  Neither — duplicate imaging is unrelated to information flow.
+
+Title: C17 Pricing and concentration
+Points: 2
+1.  Across many U.S. metropolitan areas, hospital prices for commercially insured patients have risen substantially over the past decade, while utilization has been roughly flat. Which set of factors is most consistent with a systems explanation of this pattern?
+[*] Increased hospital and health-system market concentration following mergers
+[*] Limited price transparency and negotiated rates that vary widely
+[ ] Increased federal price regulation of commercial insurance
+[*] Insurer market concentration that varies regionally and shapes negotiation leverage
+[ ] A national decline in hospital staffing
+
+Title: C18 Vaccination access vs trust
+Points: 2
+1.  A county with low childhood vaccination rates opens additional free vaccination clinics in underserved neighborhoods. Uptake rises modestly but remains well below state averages. Which of the following are most consistent with a systems account of why access expansion alone has limited effects on uptake?
+[*] Trust in public health institutions varies across communities and is shaped by historical and ongoing experience.
+[*] Information environments and social networks influence parental decisions in ways that clinic siting does not address.
+[ ] Vaccines are only effective when administered in private clinics.
+[*] Access is one element among several; provider recommendation, work and childcare schedules, and continuity of care also shape uptake.
+[ ] Free vaccines are less effective than paid vaccines.
+
+Title: C19 Cost-shifting myth
+Points: 2
+1.  A hospital administrator argues that the hospital must charge commercially insured patients more because Medicaid pays "below cost." Empirical research generally finds that the relationship between public payer rates and commercial prices is weaker than this story suggests. Which of the following best explains, in systems terms, why the simple cost-shifting story is incomplete?
+a)  Hospitals do not actually treat Medicaid patients.
+*b) Commercial prices are largely determined by negotiation leverage shaped by market concentration and contract structure, not by a mechanical pass-through of public payer shortfalls.
+c)  Medicaid pays the same rates as commercial insurers.
+d)  Hospitals are not permitted to set their own prices.
+
+Title: C20 Medicaid unwinding
+Points: 2
+1.  After a federal continuous-enrollment requirement ends, a state begins redetermining Medicaid eligibility for all enrollees. Within a year, a substantial share of disenrollments are for procedural reasons (missing paperwork) rather than for income changes. From a systems perspective, this pattern most clearly reflects:
+a)  Beneficiaries no longer being eligible due to rising incomes
+*b) An interaction between administrative processing capacity, notification systems, and beneficiary information environments — a structural gap between governance and enforcement
+c)  A reduction in the federal Medicaid matching rate
+d)  An increase in fraud
+
+Title: C21 Specialty referral bottleneck
+Points: 2
+1.  In a region with adequate primary care supply, patients referred to certain specialties (e.g., dermatology, endocrinology) wait 4–6 months for appointments. Which of the following are plausible structural drivers of this bottleneck?
+[*] Specialist clinician supply is constrained relative to demand in the region.
+[*] Reimbursement structures favor procedural over cognitive specialty care, shifting workforce composition.
+[ ] Primary care clinicians are not allowed to make specialty referrals.
+[*] Specialty practices selectively accept higher-paying insurance, narrowing effective access for Medicaid patients.
+[ ] Specialty care is not covered by any insurance.
+
+Title: C22 Behavioral health integration
+Points: 2
+1.  A primary care practice integrates a behavioral health clinician into its team to address unmet mental health need. Six months later, depression screening and follow-up rates have improved substantially. From a systems perspective, the most defensible interpretation is:
+a)  Integration eliminates all barriers to mental health care.
+*b) Integration reduced one set of access frictions (referral, stigma, scheduling) within a defined population; broader access barriers in the surrounding system remain.
+c)  Mental health is now fully addressed in this region.
+d)  Integration has no effect on screening rates.
+
+Title: C23 Housing as health intervention
+Points: 2
+1.  A Medicaid managed care organization launches a "housing as health" pilot that provides supportive housing for high-cost Medicaid enrollees with histories of homelessness. After 18 months, hospital and ED utilization for the enrolled group falls. A state legislator proposes scaling the program statewide as a cost-saving measure. From a systems perspective, the most cautious and defensible reading is:
+a)  Statewide scaling will produce identical savings.
+*b) The pilot results may not generalize uniformly because effects depend on local housing market conditions, supportive service capacity, and the characteristics of the enrolled population.
+c)  Housing has no relationship to health care utilization.
+d)  The pilot is preempted by ERISA.
+
+Title: C24 Reimbursement and prevention
+Points: 2
+1.  Despite repeated calls to "shift to prevention," the share of U.S. health spending on clinical preventive services has remained low for decades. Which of the following are systems-level explanations for this persistence?
+[*] Fee-for-service payment structures reward volume of treatment over investment in prevention.
+[*] Prevention benefits often accrue over long time horizons and to payers other than the one funding the intervention.
+[ ] Prevention is illegal under federal law.
+[*] Public health agencies — which lead much population-level prevention — are funded through separate, often discretionary streams that compete with other priorities.
+[ ] There is no scientific basis for clinical prevention.
+
+Title: C25 Rural hospital closure
+Points: 2
+1.  A rural hospital closes after several years of declining margins. Local commentators blame "Medicaid for paying too little." Which of the following are also plausible structural drivers, from a systems perspective?
+[*] Population decline reducing the patient base
+[*] Unfavorable payer mix concentrated in low-reimbursement payers
+[*] Difficulty recruiting and retaining clinicians
+[ ] Federal law requiring rural hospitals to close after 25 years
+[*] Limited specialty referral and transfer infrastructure that constrains scope of services
+
+Title: C26 Workforce pipeline delay
+Points: 2
+1.  A state projects a shortage of primary care clinicians and funds expanded medical and nursing education. From a systems perspective, the most accurate prediction about the timing of effects is:
+a)  Clinician supply will rise within 6 months.
+*b) Effects on practicing clinician supply will appear with a delay of years, because of training duration and the time required for graduates to enter and remain in practice.
+c)  Funding education has no effect on clinician supply.
+d)  The shortage will be resolved before any new students graduate.
+
+Title: C27 Coverage as floor not ceiling
+Points: 2
+1.  A health policy student argues that "if everyone had insurance, health disparities would disappear." Which set of considerations most directly complicates this claim from a systems perspective?
+[*] Insurance is one element shaping access; non-financial barriers and clinical encounter quality also vary across groups.
+[*] Structural inequities in housing, environmental exposure, and economic security operate independently of insurance status.
+[ ] Insurance has been shown to worsen health outcomes overall.
+[*] Coverage products differ substantially in network breadth, cost-sharing, and administrative friction, producing unequal effective access even when nominal coverage is universal.
+[ ] Insurance is irrelevant to health outcomes.
+
+Title: C28 Information asymmetry
+Points: 2
+1.  Even when "price transparency" tools are made available to patients, evidence suggests that consumer "shopping" for elective procedures is rare. Which of the following best explains, in systems terms, why transparency alone has had limited effects on prices?
+a)  Patients cannot read prices.
+*b) Health care decisions involve clinical complexity, urgency, network constraints, and reliance on referrals — features that limit the conditions under which consumer shopping can discipline prices.
+c)  Prices are fully regulated by the federal government.
+d)  Transparency tools always show inaccurate prices.
+
+Title: C29 Carve-outs and fragmentation
+Points: 2
+1.  A state Medicaid program "carves out" behavioral health services from its medical managed care contracts and contracts separately for behavioral health. Several years later, primary care providers report increased difficulty coordinating care for patients with both medical and behavioral health needs. Which best explains this outcome in systems terms?
+a)  Carve-outs always improve coordination.
+*b) Administrative separation of payment and reporting structures introduces friction in information flow and accountability across what is, clinically, a single patient population.
+c)  Behavioral health is unrelated to primary care.
+d)  Carve-outs increase the number of clinicians.
+
+Title: C30 Workforce burnout loop
+Points: 2
+1.  A regional health system faces rising clinician turnover. Leadership responds with one-time retention bonuses. A year later, turnover has declined briefly and is rising again. Which of the following are systems-level reasons one-time bonuses tend to have limited durable effects?
+[*] Bonuses do not change underlying workload, documentation burden, or staffing ratios.
+[*] Burnout is sustained by reinforcing loops involving workload, moral injury, and reduced colleague support that bonuses do not address.
+[ ] Bonuses are illegal under federal law.
+[*] Departures of experienced clinicians increase load on remaining clinicians, accelerating further departures.
+[ ] Clinician turnover is unrelated to working conditions.
+
+
+% =====================================================================
+% SECTION 3 — MISCLASSIFICATION AND BOUNDARY ITEMS
+% Endogenous vs. exogenous, structural vs. performative,
+% leverage vs. symptom, governance vs. enforcement.
+% Multiple-select; designed to punish surface pattern-matching.
+% =====================================================================
+
+Title: M01 Endogenous vs exogenous
+Points: 2
+1.  A team is analyzing the U.S. opioid epidemic and draws a system boundary that includes prescribing practices, drug supply dynamics, treatment access, and economic conditions in affected communities. Which of the following are reasonable to treat as ENDOGENOUS to this system as drawn? (Select all that apply.)
+[*] Prescribing practices shaped by professional norms and pharmaceutical marketing within the system
+[*] Treatment access shaped by Medicaid coverage rules and workforce supply within the system
+[ ] A sudden global pandemic
+[*] Economic conditions in affected communities, where the system explicitly includes them
+[ ] Supply disruption due to global conflict
+
+Title: M02 Performative vs structural
+Points: 2
+1.  Which of the following interventions are best characterized as PRIMARILY PERFORMATIVE rather than structural, in the sense used in this course? (Select all that apply.)
+[*] A heat wave press release urging residents to "check on neighbors"
+[ ] A change in Medicaid eligibility rules expanding adult coverage
+[*] A hospital "wellness committee" that meets quarterly with no authority to change staffing
+[*] An employer "mental health awareness week" with no change to benefits or workload
+[ ] A statewide policy raising the minimum nurse-to-patient ratio
+
+Title: M03 Leverage vs symptom
+Points: 2
+1.  A team identifies four candidate intervention points for reducing preventable maternal morbidity in their system map. Which two are most plausibly STRUCTURAL leverage points rather than symptomatic responses? (Select two.)
+[*] Changing payment so that prenatal, intrapartum, and postpartum care are covered as an integrated bundle with quality accountability
+[ ] Distributing pamphlets about warning signs in pregnancy at the hospital exit
+[*] Changing Medicaid postpartum coverage from 60 days to 12 months
+[ ] Adding a wall poster about hypertension to clinic waiting rooms
+
+Title: M04 Governance vs enforcement
+Points: 2
+1.  Which of the following pairings correctly distinguishes a GOVERNANCE failure from an ENFORCEMENT failure?
+a)  Governance: a state lacks inspectors. Enforcement: a state has no nursing home regulations.
+*b) Governance: a state has not written rules requiring minimum staffing. Enforcement: a state has the rules but inspects nursing homes only every two years and rarely imposes sanctions.
+c)  Governance and enforcement are the same thing.
+d)  Governance and enforcement are both about clinical quality measures.
+
+Title: M05 Stocks vs flows
+Points: 2
+1.  Which of the following are best understood as elements rather than relationships, in the sense used in this course? (Select all that apply.)
+[*] Primary care clinician supply
+[*] Uninsured population size
+[ ] Annual Medicaid enrollment additions
+[*] Hospital bed capacity
+[ ] Monthly outpatient visits
+
+Title: M06 Boundary discipline
+Points: 2
+1.  A team analyzing emergency department overcrowding draws a system boundary that excludes housing, behavioral health, and post-acute care capacity. Which is the strongest critique of this boundary choice?
+a)  Boundaries should always be as wide as possible.
+*b) The excluded factors are well-known structural drivers of ED demand and inpatient throughput, so excluding them is likely to obscure the dynamics the team is trying to explain.
+c)  Boundaries do not affect analysis.
+d)  Boundaries are determined by federal law.
+
+Title: M07 Endogenous data
+Points: 2
+1.  Which of the following statements about data and systems is most consistent with the idea that DATA ARE OFTEN ENDOGENOUS to the systems that produce them?
+a)  Data always describe an external reality independent of the system being measured.
+*b) Many systems generate the data used to govern them, so apparent changes in measured outcomes can reflect changes in surveillance, classification, or reporting rather than changes in underlying conditions.
+c)  Data are produced only by federal agencies.
+d)  Data are unrelated to system structure.
+
+Title: M08 Power and structure
+Points: 2
+1.  Which statement is most consistent with the course's treatment of power and structure?
+a)  Systems thinking abstracts away from power; persistent harms are unintended.
+*b) Rules, incentives, resource distributions, and institutional arrangements are core elements of system structure; persistent inequities are often the predictable result of reinforcing loops tied to political and economic incentives.
+c)  Systems can only be analyzed if a single bad actor is identified.
+d)  Systems thinking treats market arrangements as natural facts that cannot be changed.
+
+Title: M09 Delay
+Points: 2
+1.  Which of the following scenarios most clearly illustrate the role of DELAY in system behavior? (Select all that apply.)
+[*] A workforce education investment that produces no near-term change in clinician supply but a noticeable change after several years
+[*] A heat-mitigation housing retrofit program whose effects on heat-related illness emerge only after multiple summers
+[ ] A press release published the same day a policy is announced
+[*] An expansion of preventive services whose effects on chronic disease morbidity appear only over years
+[ ] A patient receiving same-day antibiotics for a confirmed bacterial infection
+
+Title: M10 Symptom vs structure
+Points: 2
+1.  A health policy proposal frames the high U.S. uninsured rate among low-wage workers primarily as a problem of "individuals not signing up for available coverage." From a systems perspective, this framing is most accurately characterized as:
+a)  A structural diagnosis that identifies upstream drivers
+*b) A framing that locates a structurally produced outcome in individual behavior, drawing attention away from employer benefit design, eligibility complexity, premium affordability, and administrative friction
+c)  An accurate causal account
+d)  A description of a balancing feedback loop
+
+
+% =====================================================================
+% SECTION 1 EXPANSION — ADDITIONAL BASELINE FACTUAL ITEMS (B21–B40)
+% These extend coverage of organization and financing breadth that
+% individual team maps are unlikely to address. Focus areas:
+% - Medicare structure beyond Part A
+% - Medicaid waivers and managed care
+% - ACA marketplaces and subsidies
+% - ERISA / state regulation boundary
+% - Public health agency structure (federal/state/local)
+% - GME financing
+% - Long-term care financing
+% - VA / IHS / military health
+% - Payment reform examples
+% =====================================================================
+
+Title: B21 Medicare Part B
+Points: 1
+1.  Medicare Part B primarily covers:
+a)  Inpatient hospital care
+*b) Physician services and outpatient care
+c)  Outpatient prescription drugs
+d)  Long-term custodial nursing home care
+
+Title: B22 Medicare Part D
+Points: 1
+1.  Medicare Part D is best described as:
+a)  A government-run drug plan administered directly by CMS
+*b) An outpatient prescription drug benefit delivered through private plans that contract with Medicare
+c)  A discount card program for low-income seniors only
+d)  A part of Medicaid available to dual eligibles only
+
+Title: B23 Medicare Advantage
+Points: 1
+1.  Medicare Advantage (Part C) plans are:
+a)  Identical in benefits and payment to traditional Medicare
+*b) Private plans that receive risk-adjusted capitated payments from Medicare to provide Part A and Part B benefits, often with additional benefits and network restrictions
+c)  Available only to dual eligibles
+d)  Operated directly by state Medicaid agencies
+
+Title: B24 Medicare Part A financing
+Points: 1
+1.  Medicare Part A is primarily financed through:
+a)  General federal tax revenue
+*b) A dedicated payroll tax paid by workers and employers
+c)  Beneficiary premiums alone
+d)  State contributions matched by the federal government
+
+Title: B25 Medicaid 1115 waiver
+Points: 1
+1.  A Section 1115 Medicaid waiver allows states to:
+a)  Withdraw entirely from the Medicaid program while retaining federal funds
+*b) Test alternative approaches to Medicaid that depart from standard federal rules, subject to federal approval
+c)  Set Medicaid eligibility above 400% of the federal poverty level automatically
+d)  Replace Medicare for residents over 65
+
+Title: B26 Medicaid managed care
+Points: 1
+1.  In most state Medicaid programs today, the majority of beneficiaries receive their care through:
+a)  Direct fee-for-service arrangements with state agencies
+*b) Contracted private managed care organizations paid on a capitated basis
+c)  Federally Qualified Health Centers exclusively
+d)  Veterans Health Administration facilities
+
+Title: B27 ACA marketplace subsidies
+Points: 1
+1.  Premium tax credits available through the ACA marketplaces are designed primarily for individuals who:
+a)  Are eligible for Medicare
+*b) Lack affordable employer coverage and have incomes within a defined range above Medicaid eligibility
+c)  Are enrolled in Medicaid
+d)  Are unauthorized immigrants
+
+Title: B28 ACA essential health benefits
+Points: 1
+1.  The ACA's "essential health benefits" requirements apply most directly to:
+a)  Self-funded large employer plans
+*b) Individual and small group market plans
+c)  Traditional Medicare
+d)  Veterans Health Administration coverage
+
+
+Title: B30 State insurance regulation
+Points: 1
+1.  States have the most direct regulatory authority over which type of health insurance arrangement?
+a)  Self-funded employer plans
+*b) Fully insured individual and group market plans sold by insurers operating in the state
+c)  Traditional Medicare benefit design
+d)  Federal employee health benefits
+
+Title: B31 CDC role
+Points: 1
+1.  Within the federal public health structure, the Centers for Disease Control and Prevention (CDC) primarily functions as:
+a)  A direct provider of clinical care to uninsured patients
+*b) A national agency for surveillance, technical assistance, and funding to state and local public health authorities
+c)  The licensing body for physicians
+d)  The federal regulator of pharmaceutical pricing
+
+Title: B32 Local health departments
+Points: 1
+1.  Most direct, on-the-ground public health services in the United States — communicable disease control, environmental health inspections, immunizations — are delivered by:
+a)  The federal CDC
+*b) State and local health departments, with funding and authority varying substantially across jurisdictions
+c)  Private hospitals
+d)  Medicare Advantage plans
+
+Title: B34 Long-term care financing
+Points: 1
+1.  The single largest payer for long-term care services and supports — including nursing home and home- and community-based services — in the United States is:
+a)  Medicare
+*b) Medicaid
+c)  Private long-term care insurance
+d)  The Veterans Health Administration
+
+Title: B35 Medicare and LTC
+Points: 1
+1.  Traditional Medicare's coverage of long-term custodial nursing home care is best described as:
+a)  Comprehensive and unlimited for beneficiaries with chronic disability
+*b) Limited; Medicare covers short-term skilled nursing facility care after a qualifying hospital stay but does not cover long-term custodial care
+c)  Available only through Medicare Advantage plans
+d)  Identical to Medicaid's nursing home benefit
+
+Title: B36 VA system
+Points: 1
+1.  The Veterans Health Administration (VA) is best described as:
+a)  An insurance program that pays private providers for veterans' care
+*b) An integrated direct-delivery health system operating its own facilities and employing its own clinicians to serve eligible veterans
+c)  A subsidiary of Medicare
+d)  A state-run program varying by state
+
+Title: B38 ACO definition
+Points: 1
+1.  An Accountable Care Organization (ACO) is best described as:
+a)  A type of insurance plan sold on the marketplaces
+*b) A group of providers that takes on accountability for the cost and quality of care for a defined patient population, typically through shared savings or risk arrangements with a payer
+c)  A federal regulatory agency
+d)  A type of hospital ownership structure
+
+Title: B39 CHIP
+Points: 1
+1.  The Children's Health Insurance Program (CHIP) primarily covers:
+a)  Children in households eligible for Medicare
+*b) Children in households with incomes too high for Medicaid but below state-defined thresholds
+c)  All children regardless of income
+d)  Children of federal employees
+
+Title: B40 Three-share public health
+Points: 1
+1.  Public health activities in the United States are funded through a combination of federal, state, and local sources. Which statement most accurately characterizes the structure of this funding?
+a)  Public health is funded almost entirely by the federal government through a single agency.
+*b) Public health funding is fragmented across categorical federal grants, state appropriations, and local revenues, producing substantial variation in capacity across jurisdictions.
+c)  Public health funding is provided primarily through Medicare premiums.
+d)  Public health is funded primarily by private insurance.
+
+
+% =====================================================================
+% SECTION 3 EXPANSION — ADDITIONAL BOUNDARY/MISCLASSIFICATION ITEMS (M11–M15)
+% These extend the bank's coverage of systems-thinking moves on
+% unfamiliar content — the connective tissue between generic and
+% team-specific sections.
+% =====================================================================
+
+Title: M11 Risk vs structure
+Points: 2
+1.  A health policy commentator argues that high rates of preventable hospitalization in a low-income county are explained by "individual risk factors and lifestyle choices." From a systems perspective grounded in this course, the most accurate critique of this framing is:
+a)  Individual behavior plays no role in health outcomes.
+*b) The framing treats structurally produced exposures, constraints, and access barriers as if they were free individual choices, obscuring the system features that shape the distribution of those "choices" in the first place.
+c)  Preventable hospitalizations are unrelated to upstream conditions.
+d)  Risk factors are determined entirely by genetics.
+
+Title: M12 Reinforcing vs balancing
+Points: 2
+1.  A team's system map shows the following loop: rising hospital prices → rising premiums → employers shifting more cost to workers → workers delaying care → worsening health → higher acute care utilization → upward pressure on hospital prices. Which best characterizes this loop?
+a)  A balancing loop that stabilizes prices over time
+*b) A reinforcing loop in which rising prices and rising costs amplify each other, with no internal mechanism shown that would resist or reverse the trend
+c)  A loop with no polarity
+d)  An exogenous shock
+
+Title: M13 Symptom-leverage confusion
+Points: 2
+1.  Which of the following intervention pairs best illustrates the distinction between a SYMPTOMATIC fix and a STRUCTURAL leverage point, in the sense used in this course? (Select the pair where the second is clearly more structural than the first.)
+a)  (A) Changing Medicaid eligibility rules; (B) distributing pamphlets at clinics
+*b) (A) Posting a "wash your hands" sign in a hospital corridor; (B) redesigning workflows, staffing, and accountability so that hand hygiene is built into routine practice and tracked
+c)  (A) Changing the federal minimum wage; (B) issuing a press release about poverty
+d)  (A) Restructuring payment to reward outcomes; (B) offering a one-time bonus to high-performing clinicians
+
+Title: M14 Power and rules
+Points: 2
+1.  Which of the following statements is most consistent with the course's treatment of POWER, RULES, AND INSTITUTIONS as part of system structure? (Select all that apply.)
+[*] Markets in health care are designed systems shaped by rules, not natural phenomena.
+[*] Persistent inequities can be the predictable result of reinforcing loops tied to political and economic incentives, even when no individual actor intends harm.
+[ ] Power is irrelevant to systems analysis as long as elements and feedback loops are correctly identified.
+[*] Who has authority to set rules, allocate resources, and enforce compliance is a structural feature of the system.
+[ ] Systems can be fully analyzed without reference to governance arrangements.
+
+Title: M15 Boundary and exclusion
+Points: 2
+1.  A graduate student analyzing maternal mortality in the United States draws a system boundary that excludes immigration status, race, and household economic conditions, on the grounds that these are "social factors, not health system factors." Which is the strongest critique of this boundary choice from a systems perspective?
+a)  Boundaries should always include every possible factor.
+*b) The excluded factors are well-documented structural drivers of maternal mortality through access, treatment, and exposure pathways; treating them as outside the system makes the persistent pattern of disparities essentially impossible to explain endogenously.
+c)  The boundary is correct because health systems are clinical, not social.
+d)  Boundary choices do not affect what an analysis can explain.
+
+
+% =====================================================================
+% End of expansion. Total bank now: B01–B40, C01–C30, M01–M15 = 85 items.
+% =====================================================================
