@@ -1,0 +1,52 @@
+Quiz title: PUBH 402 Final Exam — Group ED-Team A: ED Team-Specific (Ortega, Howard, Orozco)
+Quiz description: Team-specific items for the ED overcrowding team consisting of Lora Ortega, Darin Howard, and Vanessa Orozco. Items reference your team's submitted final system map. Students who engaged with the map should be able to identify what their map did and did not include, recognize the loops they identified, and reason about the structural choices the team made. 2 points each. Suggested timing: 2–2.5 min per item. Recommended pull: 3 items per student.
+
+% =====================================================================
+% GROUP ED-TEAM A — Ortega, Howard, Orozco
+% Map characteristics:
+%  - 14 elements, three identified loops (B1, R1, R2)
+%  - Deliberately removed ED overcrowding as outcome variable
+%  - B1 (balancing): inequity -> Medicaid eligibility -> uninsured pop
+%  - R1 (reinforcing): PC clinician supply <-> preventive svcs <-> PC visit cap
+%  - R2 (reinforcing): safety-net subsidies -> nursing -> bed cap -> ED access -> safety-net
+%  - Notable exclusions: housing, racism (as named element), payment models
+%    beyond FFS, post-acute care
+% =====================================================================
+
+Title: ED-A-T1 Map — outcome variable choice
+Points: 2
+1.  Your team's final system map deliberately excluded "ED overcrowding" as an outcome variable, with the team writing in the element reconsideration section that earlier versions relied on it to connect elements but it was removed so the map would focus on structural relationships among the elements themselves. From a systems perspective, what is the strongest argument *for* this design choice?
+a)  Outcome variables should never appear in any system map.
+*b) When the outcome being analyzed sits at the center of a map as a node that everything points to, the map tends to function as a list of inputs feeding a problem; removing the outcome forces the map to show how elements interact among themselves and helps surface feedback structure that would otherwise be hidden by a "all roads lead to ED overcrowding" framing.
+c)  ED overcrowding is not a real phenomenon and cannot be modeled.
+d)  Including outcome variables is forbidden by federal regulations.
+
+Title: ED-A-T2 Map — R2 safety-net loop
+Points: 2
+1.  Your team's final system map identified R2 as a reinforcing loop connecting safety-net provider subsidies, nursing workforce availability, hospital bed capacity, and emergency care access: subsidies support staffing and bed capacity, which strengthens emergency care access, which over time increases hospitals' reliance on safety-net subsidies. From a systems perspective, what does this loop most clearly imply about the *fragility* of safety-net hospitals serving high-uninsured populations?
+a)  Safety-net hospitals are insulated from policy changes affecting subsidies.
+*b) Because the loop runs through subsidies as the input that sustains workforce, beds, and emergency access, a reduction or destabilization of subsidies (for example, changes to DSH payments) propagates through the entire loop — weakening staffing, shrinking functional bed capacity, and reducing the system's ability to absorb emergency demand from the populations the safety-net hospitals serve.
+c)  The loop has no implications for hospital fragility because it is reinforcing.
+d)  Reinforcing loops cannot be analyzed for fragility.
+
+Title: ED-A-T3 Map — B1 balancing loop limits
+Points: 2
+1.  Your team's final system map identified B1 as a balancing loop: as inequitable access to health-promoting resources increases, policy pressure builds for broader Medicaid eligibility over time, which reduces the uninsured population, which reduces inequitable access. From a systems perspective, which of the following are reasonable critiques of treating this loop as a robust balancing mechanism in U.S. health policy? (Select all that apply.)
+[*] The loop assumes that visible inequity reliably translates into political pressure for Medicaid expansion, but this translation is mediated by political conditions that vary substantially across states and over time.
+[*] The loop includes a long delay between the perception of inequity and policy change, during which the underlying inequity may worsen rather than stabilize.
+[ ] Balancing loops cannot be critiqued because they are inherently stable.
+[*] The loop treats Medicaid eligibility expansion as the primary policy response, but expansion does not address other structural drivers of inequitable access (housing, environmental conditions, occupational stratification) that the team's map did not include as elements.
+[ ] The team should not have identified any balancing loops.
+
+Title: ED-A-T4 Map — exclusion of housing and racism
+Points: 2
+1.  Your team's final element list includes "Inequitable access to health-promoting resources" as the structural inequity element but does not include housing stability or racialized residential segregation as named elements. ED utilization research consistently identifies housing instability as one of the largest predictors of high-utilization ED use, and racialized residential segregation shapes the geographic distribution of safety-net hospitals serving the populations most affected by overcrowding. Which is the most defensible critique of these exclusions from a systems perspective?
+a)  Housing and segregation are not part of the U.S. health care system and were correctly excluded.
+*b) "Inequitable access to health-promoting resources" as a single element captures the concept at a high level of abstraction but does not allow the map to represent the specific causal pathways through which housing and segregation produce ED demand and shape hospital capacity — leaving the map unable to explain key dynamics it is otherwise positioned to address.
+c)  The team should have included every possible element regardless of relevance.
+d)  Boundary choices have no effect on what an analysis can explain.
+
+
+% =====================================================================
+% End of Group ED-Team A. Total items: 4. Pull recommendation: 3 of 4.
+% =====================================================================

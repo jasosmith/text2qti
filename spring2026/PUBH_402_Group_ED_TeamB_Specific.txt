@@ -1,0 +1,54 @@
+Quiz title: PUBH 402 Final Exam — Group ED-Team B: ED Team-Specific (Alcaraz, Aleman, Aramula, Azevedo)
+Quiz description: Team-specific items for the ED overcrowding team consisting of Andrea Alcaraz, Sophia Aleman, Carlos Aramula, and Jordan Azevedo. Items reference your team's submitted final system map. Students who engaged with the map should be able to identify what their map did and did not include, recognize the structural choices the team made, and reason about elements such as EMTALA that the team explicitly added to the map. 2 points each. Suggested timing: 2–2.5 min per item. Recommended pull: 3 items per student.
+
+% =====================================================================
+% GROUP ED-TEAM B — Alcaraz, Aleman, Aramula, Azevedo
+% Map characteristics:
+%  - Substantial research with citations throughout
+%  - Added EMTALA as a new element with explicit causal claim that
+%    EMTALA "+" emergency_care_access (i.e., increases ED demand)
+%  - Kept emergency_care_access in the map as the proxy for ED outcomes
+%  - Included housing stability AND racialized residential segregation
+%    as elements (notably stronger than Teams A and C on this dimension)
+%  - Identified four loops (R1, R2, B1, R3) — loop content was less
+%    fully developed than Team A's
+%  - Excluded preventive services and primary care clinician supply
+%    from element list explicitly
+% =====================================================================
+
+Title: ED-B-T1 Map — EMTALA framing
+Points: 2
+1.  Your team added EMTALA (federal regulatory requirement) to your system map as a new element and drew a positive arrow from EMTALA to emergency care access, with the team's note explaining that EMTALA "requires EDs to provide care to all patients regardless of their ability to pay, which contributes to ED overcrowding." From a systems perspective, what is the most defensible refinement of this framing?
+a)  EMTALA does not affect ED utilization in any way.
+*b) EMTALA channels existing unmet demand into the ED rather than creating that demand; the underlying drivers (coverage gaps, primary care access barriers, lack of alternative care settings for uninsured patients) are what produce the demand, and EMTALA is the structural feature that determines where that demand lands. Framing EMTALA as the cause of overcrowding risks treating a structural channeling mechanism as the upstream driver.
+c)  EMTALA is a state law and does not apply to most hospitals.
+d)  Removing EMTALA would eliminate ED overcrowding.
+
+Title: ED-B-T2 Map — exclusion of primary care clinician supply
+Points: 2
+1.  Your team's element list explicitly excluded "Primary care clinician supply" from the system map, with the team's reasoning indicating focus on hospital staffing shortages instead. Your map *did* include primary care visit capacity and primary care coordination capacity. From a systems perspective, what is the most defensible critique of excluding clinician supply as a separate element?
+a)  Primary care clinician supply has no effect on ED utilization.
+*b) Visit capacity and coordination capacity are downstream consequences of clinician supply; without supply as an element, the map cannot represent the workforce-level constraint that determines whether visit capacity can grow at all, leaving the map unable to explain why primary care access barriers persist even when policymakers attempt to expand visit capacity.
+c)  The team should have excluded all primary care elements.
+d)  Workforce supply elements are not allowed in system maps.
+
+Title: ED-B-T3 Map — inclusion of housing and segregation
+Points: 2
+1.  Your team's system map includes both housing stability and racialized residential segregation as elements — a notable choice given that many maps of ED overcrowding focus narrowly on hospital and clinical workflow factors. From a systems perspective, what does including these elements most clearly enable your map to explain that a more narrowly-bounded map could not?
+a)  These elements have no analytical value in an ED overcrowding map.
+*b) Including housing and segregation allows the map to represent how structural conditions in the surrounding community produce the demand that arrives at the ED — making the map able to explain *why* certain hospitals and certain populations consistently experience overcrowding, rather than treating overcrowding as a hospital-internal operations problem.
+c)  Housing and segregation are exogenous to the U.S. health care system.
+d)  These elements are decorative and have no causal role.
+
+Title: ED-B-T4 Map — keeping ED access as outcome proxy
+Points: 2
+1.  Your team's final system map kept "emergency care access" as the central element through which most causal pathways flow — effectively functioning as a proxy outcome variable for ED utilization. Another team analyzing the same topic chose to remove their outcome variable entirely so the map would focus on relationships among elements themselves. From a systems perspective, what is the strongest argument that *your team's choice* to keep ED access in the map was defensible despite this trade-off?
+a)  Outcome variables must always appear in system maps.
+*b) Keeping emergency care access in the map as a near-outcome makes the directional claims of the analysis explicit — every relationship in the map is making a claim about how the element affects ED demand or capacity — and supports the use of the map for proposing interventions, even though it can flatten feedback structure if not paired with explicit loop identification.
+c)  Removing outcome variables is forbidden by federal regulations.
+d)  Maps with outcome variables cannot identify feedback loops.
+
+
+% =====================================================================
+% End of Group ED-Team B. Total items: 4. Pull recommendation: 3 of 4.
+% =====================================================================
