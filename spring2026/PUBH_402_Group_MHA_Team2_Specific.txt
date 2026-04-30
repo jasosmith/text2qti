@@ -1,0 +1,56 @@
+Quiz title: PUBH 402 Final Exam — Group MHA-Team 2: MH Team-Specific (Lizalde, Marroquin, McDo, Rincon)
+Quiz description: Team-specific items for the mental health access team consisting of Chelsea Xiomara Lizalde, Shirley Marroquin, Diana McDo, and Rodolfo Rincon. Items reference your team's submitted final system map, particularly the two well-defined feedback loops (R1 Care Awareness Reinforcement and B1 System Saturation) and the new elements your team added to the analysis. 2 points each. Suggested timing: 2–2.5 min per item. Recommended pull: 3 items per student.
+
+% =====================================================================
+% GROUP MHA-TEAM 2 — Lizalde, Marroquin, McDo, Rincon
+% Map characteristics:
+%  - 13 elements with two carefully constructed feedback loops
+%  - R1 (Care Awareness Reinforcement): community program capacity ->
+%    outreach -> communication -> specialty capacity -> community program
+%    capacity (with delay)
+%  - B1 (System Saturation): specialty capacity -> wait times -> communication
+%    -> specialty capacity
+%  - Added two NEW elements not from original list: "community-based outreach
+%    resources" and "patient wait times" — used in the loops
+%  - Renamed scope-of-practice element to "Restrictive State scope-of-practice
+%    laws" with negative arrow to specialist supply (correctly inverted)
+%  - Notable: NO Medicaid eligibility rules element — has Medicaid enrollment
+%    but not the rules that determine it; missing causal upstream
+% =====================================================================
+
+Title: MHA-T2-1 Map — Care Awareness Reinforcement loop
+Points: 2
+1.  Your team's final system map identified R1 (Care Awareness Reinforcement) as a reinforcing loop: community-based health program capacity → community-based outreach resources → health communication effectiveness → specialty care visit capacity → community-based health program capacity (with delay). From a systems perspective, what is the most defensible critique of treating this loop as a primary mechanism for expanding mental health access?
+a)  Reinforcing loops cannot operate in mental health systems.
+*b) The loop assumes that improvements in specialty visit capacity feed back to expand community program capacity, but this link is mediated by funding flows that the map does not represent — community programs do not automatically grow because more visits occur; they grow when funders allocate resources, which depends on conditions outside this loop. The loop as drawn treats a funding-dependent translation as a reliable causal mechanism.
+c)  The loop has no internal causal logic.
+d)  Outreach has no relationship to communication effectiveness.
+
+Title: MHA-T2-2 Map — System Saturation loop
+Points: 2
+1.  Your team's final system map identified B1 (System Saturation) as a balancing loop: specialty care visit capacity → patient wait times (negative) → health communication effectiveness (negative) → specialty care visit capacity. From a systems perspective, why is this correctly identified as a *balancing* loop rather than a reinforcing loop?
+a)  All loops involving wait times are balancing.
+*b) The loop contains an odd number of negative links (two), which means the loop's net effect counteracts changes in specialty capacity rather than amplifying them: if capacity decreases, wait times increase, which reduces communication effectiveness, which reduces willingness to seek care, which reduces effective demand on specialty capacity — bringing the system back toward equilibrium rather than driving it further from equilibrium.
+c)  Balancing loops always involve communication effectiveness.
+d)  The loop is reinforcing because it includes specialty care.
+
+Title: MHA-T2-3 Map — addition of new elements
+Points: 2
+1.  Your team's final system map added two elements not from the original element list: "community-based outreach resources" and "patient wait times." These elements appear in your identified feedback loops. From a systems perspective, what is the most defensible critique of adding these specific elements?
+a)  Teams should never add new elements.
+*b) The added elements are functionally close to existing options on the original list (community-based outreach resources overlaps with community-based health program capacity; patient wait times is a downstream consequence of specialty visit capacity rather than a structurally distinct element). The additions allow the loops to be drawn as cleanly closed cycles, but at the cost of introducing elements that may not survive structural scrutiny — they are visible because they make the loops work, not because they represent independent system structure.
+c)  The added elements are not relevant to mental health access.
+d)  Adding elements has no implications for the analysis.
+
+Title: MHA-T2-4 Map — missing eligibility rules
+Points: 2
+1.  Your team's final system map includes Medicaid enrollment as an element but does not include Medicaid eligibility rules. The map shows Medicaid enrollment with a positive arrow to specialty care visit capacity, treating enrollment as a given input. From a systems perspective, what is the most defensible critique of omitting eligibility rules?
+a)  Medicaid enrollment is unrelated to eligibility rules.
+*b) Medicaid enrollment is largely determined by eligibility rules, federal-state policy choices, and outreach — making enrollment an outcome of upstream policy decisions rather than an exogenous input. By treating enrollment as a starting point without representing the rules that produce it, the map cannot represent the structural lever that policy actors most directly control, weakening the map's usefulness for analyzing how policy could change access.
+c)  Eligibility rules are not part of the U.S. health care system.
+d)  Maps should never include policy elements.
+
+
+% =====================================================================
+% End of Group MHA-Team 2. Total items: 4. Pull recommendation: 3 of 4.
+% =====================================================================

@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://claude.ai/chat/6b9fafd3-f771-4bf1-8d4c-f17c30335020
+HostUrl=https://claude.ai/api/organizations/2b87d0e1-4f58-477f-b45d-e8ad48027f30/conversations/6b9fafd3-f771-4bf1-8d4c-f17c30335020/wiggle/download-files?paths=%2Fmnt%2Fuser-data%2Foutputs%2FPUBH_402_Group_MHA_General.txt&paths=%2Fmnt%2Fuser-data%2Foutputs%2FPUBH_402_Group_MHA_Team1_Specific.txt&paths=%2Fmnt%2Fuser-data%2Foutputs%2FPUBH_402_Group_MHA_Team2_Specific.txt&paths=%2Fmnt%2Fuser-data%2Foutputs%2FPUBH_402_Group_MHA_Team3_Specific.txt

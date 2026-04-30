@@ -1,0 +1,55 @@
+Quiz title: PUBH 402 Final Exam — Group MHA-Team 1: MH Team-Specific (Ruiz, Galvez, Le, Leal)
+Quiz description: Team-specific items for the mental health access team consisting of Evelyn Ruiz, Gabriela Galvez, Cynthia Le, and Alondra Leal. Items reference your team's submitted final system map, particularly your team's specific framing of the topic as "Barriers to Mental Health Care Access Among Low-Income Medicaid Populations" and the structural pathway you traced through housing and inequitable access. 2 points each. Suggested timing: 2–2.5 min per item. Recommended pull: 3 items per student.
+
+% =====================================================================
+% GROUP MHA-TEAM 1 — Ruiz, Galvez, Le, Leal
+% Map characteristics:
+%  - Topic framed specifically around low-income Medicaid populations
+%  - 13 elements; includes housing stability, inequitable access, fee-for-service,
+%    state general fund, prescription drug pricing, community health programs
+%  - Notable causal pathway: state general fund -> community programs -> housing
+%    stability -> inequitable access -> specialty visit capacity
+%  - Identified R1 (Insurance Coverage and Workforce Capacity) and B1 (Capacity
+%    Constraints) — but R1's cluster has no contents declared in the .dot file
+%    (described in comments only); B1's cluster contains the chain but is closed
+%    only by inference
+%  - Includes a debatable causal claim: specialty_care_visit_capacity ->
+%    reimbursement_requirements (claiming demand drives reimbursement policy)
+% =====================================================================
+
+Title: MHA-T1-1 Map — housing pathway
+Points: 2
+1.  Your team's final system map traced a structural pathway from state general fund health allocations through community-based health program capacity, then to housing stability, then to inequitable access to resources, and finally to specialty care visit capacity. From a systems perspective, what is the most defensible critique of relying on this pathway as a primary mechanism connecting funding to mental health access in your map?
+a)  This claim is the strongest in the map and requires no critique.
+*b) The pathway is plausible but each link involves substantial delay and conditional dependencies (community programs must actually deliver housing-relevant services; housing stability must translate into resource access; resource access must translate into completed care). The map represents this as a chain of positive influences but does not represent the conditions under which each link operates, which limits the map's ability to predict where the pathway is likely to fail in practice.
+c)  Housing stability is not a direct structural determinant of health.
+d)  The pathway should not appear in any system map.
+
+Title: MHA-T1-2 Map — feedback loop in R1
+Points: 2
+1.  Your team's final system map identified R1 as a reinforcing loop: "Insurance Coverage and Workforce Capacity." Your team's description states that expanding Medicaid eligibility increases enrollment, raising demand, encouraging higher reimbursement and funding, which expands specialist workforce and capacity. From a systems perspective, what is the most defensible critique of treating this as a robust reinforcing loop in U.S. mental health policy?
+a)  This loop requires no critique.
+*b) The loop assumes that increased demand reliably translates into increased reimbursement and funding — but in U.S. mental health policy this translation is mediated by political conditions, state budget constraints, and the relative priority of behavioral health within Medicaid budgets, none of which are represented as elements in the map. The loop as drawn treats a politically contingent translation as a reliable causal mechanism.
+c)  The loop is about specialty workforce, which is not relevant to access here.
+d)  Demand and reimbursement have no direct causal relationship.
+
+Title: MHA-T1-3 Map — specialty capacity to reimbursement
+Points: 2
+1.  Your team's final system map includes the relationship: "specialty_care_visit_capacity -> reimbursement_requirements [+]" with the comment that increased utilization of services creates policy pressure to adjust reimbursement rates. From a systems perspective, what is the most defensible critique of this specific causal claim?
+a)  Reimbursement requirements have only a distal  relationship to specialty capacity.
+*b) The claim treats utilization as if it directly drives reimbursement policy, but the empirical relationship is much weaker and more politically mediated than the arrow suggests; rising utilization can equally produce pressure to *restrict* access or impose prior authorization rather than to expand reimbursement, depending on payer priorities and budget conditions. The map represents an intuitive but unsupported directional claim.
+c)  This claim is the strongest in the map and requires no critique.
+d)  Specialty capacity is not part of the system.
+
+Title: MHA-T1-4 Map — focus on Medicaid populations
+Points: 2
+1.  Your team explicitly framed the system as analyzing barriers to mental health care access "among low-income Medicaid populations." From a systems perspective, what is one important consequence of this scoping choice for what your map can and cannot explain?
+a)  The scoping choice has no consequences for the analysis.
+*b) The scoping focuses the analysis on populations served by a specific payer, which makes Medicaid-specific dynamics (eligibility rules, reimbursement rates, network adequacy under managed care) more visible but tends to render dynamics involving private insurance, employer-based coverage, the uninsured, and out-of-network cash-pay practice less prominent — even though these are part of the broader system in which Medicaid operates and shape provider behavior toward Medicaid patients.
+c)  The scoping should always be as wide as possible.
+d)  Scoping decisions only affect formatting.
+
+
+% =====================================================================
+% End of Group MHA-Team 1. Total items: 4. Pull recommendation: 3 of 4.
+% =====================================================================
