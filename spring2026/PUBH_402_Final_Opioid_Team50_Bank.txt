@@ -1,0 +1,99 @@
+Quiz title: PUBH 402 Final Exam — Opioid Team B Anchored Bank (Revised)
+Quiz description: Anchored questions for the opioid team whose final system map ("Opioid Use Disorder (OUD) System Map – Final Version") includes both elements from the canonical list (Medicaid enrollment, Federal discretionary health funding, Reimbursement requirements, State scope-of-practice laws, Uninsured population size, Prescription drug pricing levels, Drug formulary restrictions, Housing stability, Income security, Transportation access, Public health surveillance capacity, Primary care clinician supply, Community-based health program capacity) AND two elements added outside the canonical list (Untreated OUD cases, Overdose mortality). Module 4 of the course permits teams to propose new elements when they can be structurally justified; this team exercised that option. The map contains a balancing loop: Overdose mortality → Federal discretionary health funding → Community-based health program capacity → Untreated OUD cases → Overdose mortality. NOTE FOR INSTRUCTOR: Verify against the team's submitted .dot file and Module 4 element reconsideration before deployment. Item TB04 specifically tests whether the team documented its justification for the non-list elements.
+
+% =====================================================================
+% SECTION A — RECOGNITION OF YOUR OWN MAP
+% =====================================================================
+
+Title: TB01 Element identification
+Points: 1
+1.  Which of the following elements appears in your team's final system map for the opioid epidemic? Select all that apply.
+[*] Untreated OUD cases
+[*] Overdose mortality
+[*] Community-based health program capacity
+[*] State scope-of-practice laws
+[*] Housing stability
+[ ] Pharmaceutical market concentration
+[ ] Fee-for-service payment prevalence
+[ ] Racialized residential segregation
+
+Title: TB02 Required category check
+Points: 1
+1.  Your team's element list was required to include at least one Structural Determinant. Which element from your team's map satisfies this requirement?
+a)  Public health surveillance capacity
+b)  Primary care clinician supply
+*c) Housing stability
+d)  Reimbursement requirements
+
+Title: TB03 Loop identification
+Points: 1
+1.  Your team's final map contains an identifiable feedback loop centered on the policy response to the opioid crisis. Which element sequence best describes this loop, in the order it operates?
+a)  Income security → Uninsured population → Primary care supply → Income security
+*b) Overdose mortality → Federal discretionary health funding → Community-based health program capacity → Untreated OUD cases → Overdose mortality
+c)  Housing stability → Transportation access → Untreated OUD cases → Housing stability
+d)  Drug formulary restrictions → Prescription drug pricing → Drug formulary restrictions
+
+% =====================================================================
+% SECTION B — JUSTIFYING ELEMENTS OUTSIDE THE CANONICAL LIST
+% Module 4 permits new elements with structural justification. This
+% section tests whether students can articulate that justification.
+% =====================================================================
+
+Title: TB04 Justification for non-list elements
+Points: 1
+1.  "Untreated OUD cases" and "Overdose mortality" are not part of the canonical element list provided in this course. Which of the following is the most defensible structural justification for including these elements in your map?
+a)  They were added because the team preferred to focus on outcomes rather than structure.
+*b) They function as outcome stocks that close feedback loops in the system — without them, the map cannot represent how the burden of disease itself triggers funding, policy, or capacity responses.
+c)  They were required by the course because the topic is the opioid epidemic.
+d)  No justification is required; teams may add any element at any time.
+
+Title: TB05 Loop type
+Points: 1
+1.  The loop in your map running from overdose mortality through federal funding, community program capacity, and untreated OUD cases back to mortality is best classified as which type of feedback loop, and why?
+a)  Reinforcing — rising mortality directly causes more mortality.
+*b) Balancing — rising mortality triggers a funding and capacity response that, with delay, reduces mortality.
+c)  Reinforcing — funding always increases overdose mortality.
+d)  Neither reinforcing nor balancing — feedback loops cannot be classified.
+
+Title: TB06 Delays in the loop
+Points: 2
+1.  Your team's map labels the edges from federal funding to community program capacity, and from primary care supply to community program capacity, as having delays. Which of the following are accurate consequences of these delays for system behavior? Select all that apply.
+[*] Capacity to address untreated OUD expands years after funding decisions are made.
+[*] Funding increases that follow a mortality spike will appear ineffective in the short term, even if they eventually reduce mortality.
+[*] The structure tends to produce overshoot or oscillation: funding may peak after the worst of a wave has passed.
+[ ] Delays mean the loop is not a real feedback loop.
+[ ] Delays guarantee the loop will fail to reduce mortality regardless of magnitude.
+
+Title: TB07 Reactive vs preventive structure
+Points: 1
+1.  The balancing loop in your team's map is triggered by overdose mortality rather than by upstream risk indicators (for example, rising opioid prescribing, rising rates of OUD diagnosis, or surveillance signals). Which interpretation of this structure is most consistent with systems thinking?
+a)  The structure is optimal because it directs resources where mortality is highest.
+*b) The structure tends to underinvest in prevention because the loop only activates after deaths occur, by which time many cases of OUD are already established.
+c)  The structure has no implications for prevention.
+d)  The structure prevents all overdose deaths automatically.
+
+% =====================================================================
+% SECTION C — DIAGNOSING WHAT IS NOT IN THE MAP
+% =====================================================================
+
+Title: TB08 Supply-side absence
+Points: 1
+1.  Your team's map includes prescription drug pricing levels and drug formulary restrictions, but does not include opioid prescribing practices, pharmaceutical marketing, or illicit drug supply (including fentanyl). Which of the following best characterizes the consequence of this boundary choice for explaining the opioid epidemic?
+a)  The boundary choice has no consequence because supply factors are unrelated to OUD.
+*b) The map can explain treatment access and policy response dynamics, but cannot explain the historical drivers of the epidemic itself, including the prescribing wave and the later fentanyl wave.
+c)  The boundary choice is invalid; all opioid maps must include illicit supply.
+d)  The map fully captures the opioid supply chain through formulary restrictions alone.
+
+% =====================================================================
+% SECTION D — APPLYING YOUR MAP
+% =====================================================================
+
+Title: TB09 Leverage points from your map
+Points: 2
+1.  Using your team's final system map, which of the following interventions are best characterized as *structural* leverage points (rather than symptomatic or downstream responses) for reducing overdose mortality? Select all that apply.
+[*] Expanding Medicaid enrollment by loosening eligibility, increasing access to OUD treatment for the previously uninsured population
+[ ] Increasing emergency department capacity to reverse more overdoses
+[*] Modifying state scope-of-practice laws to expand the clinicians who can prescribe MOUD, increasing primary care supply over time
+[ ] Distributing naloxone widely (this is a downstream response and is not represented as a structural element in your map)
+[*] Improving housing stability to address a structural determinant that drives community-based program demand and influences untreated OUD
+

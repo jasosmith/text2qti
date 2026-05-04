@@ -1,0 +1,98 @@
+Quiz title: PUBH 402 Final Exam — Reproductive Care Section 51 Team 6 Anchored Bank
+Quiz description: Anchored questions for Section 51 Team 6's final reproductive care system map. The map's 13 elements are all drawn from the canonical list: medicaid_eligibility_rules, scope_of_practice_laws, medicaid_enrollment, employer_insurance_enrollment, uninsured_population, fee_for_service_payment_prevalence, prescription_drug_pricing, preventive_service_availability, transportation_access, inequitable_access_to_resources, primary_care_clinician_supply, specialist_clinician_supply, primary_care_facility_availability. Loops: B1 "Coverage Gap Response" (medicaid_eligibility_rules → medicaid_enrollment → uninsured_population → medicaid_eligibility_rules with long delay on the closing edge), R1 "Structural Access Inequity" (inequitable_access_to_resources → transportation_access and primary_care_facility_availability → preventive_service_availability → inequitable_access_to_resources with long delay on the closing edge). Anchored items emphasize (a) recognition of the team's own map, (b) defensible reasoning about what the structural boundary set by the element list permits the map to explain, and (c) structural application of the elements present. NOTE FOR INSTRUCTOR: Verify against the team's submitted .dot before deployment.
+
+% =====================================================================
+% SECTION A — RECOGNITION OF YOUR OWN MAP
+% =====================================================================
+
+Title: S51_01 Element identification
+Points: 1
+1.  Which of the following elements appears in your team's final reproductive care system map? Select all that apply.
+[*] Employer-based insurance enrollment
+[*] Inequitable access to health-promoting resources
+[*] Primary care facility availability
+[*] Prescription drug pricing levels
+[*] Primary care clinician supply
+[ ] Specialty care referral availability
+[ ] Household out-of-pocket spending
+[ ] Capacity for administrative processing
+
+Title: S51_02 Required category check
+Points: 1
+1.  Your team's element list was required to include at least one element from the Structural Inequities category. Which element from your team's map satisfies this requirement?
+a)  Transportation access
+b)  Primary care facility availability
+*c) Inequitable access to health-promoting resources
+d)  Medicaid eligibility rules
+
+Title: S51_03 B1 loop identification
+Points: 1
+1.  Your team's B1 "Coverage Gap Response" balancing loop runs through which sequence of elements?
+a)  Inequitable access → Transportation → Preventive services → Inequitable access
+*b) Medicaid eligibility rules → Medicaid enrollment → Uninsured population size → Medicaid eligibility rules
+c)  Fee-for-service → Prescription drug pricing → Preventive services → Fee-for-service
+d)  Scope-of-practice laws → Primary care clinician supply → Primary care facility availability → Scope-of-practice laws
+
+% =====================================================================
+% SECTION B — INTERPRETING YOUR LOOPS
+% =====================================================================
+
+Title: S51_04 B1 closing edge scrutiny
+Points: 1
+1.  Your team's B1 loop closes with an edge labeled "+ long delay" from uninsured_population to medicaid_eligibility_rules, representing the claim that a larger uninsured population creates delayed political pressure to broaden Medicaid eligibility. Which assessment of this closing edge is most defensible?
+a)  The closing edge is unconditionally true; uninsured populations always lead to expanded Medicaid eligibility.
+*b) The closing edge is plausible but conditional and politically contingent — visible coverage gaps can generate pressure for expansion, but the response depends on state political conditions and federal policy, which is why the long delay label is appropriate.
+c)  The closing edge is invalid because policy is exogenous to all health systems.
+d)  Loops cannot be closed by political processes.
+
+Title: S51_05 R1 reinforcing structure
+Points: 2
+1.  Your team's R1 loop describes how inequitable access to health-promoting resources reduces transportation access and primary care facility availability, which reduce preventive service availability, which (with long delay) sustains inequitable access. Which of the following are accurate interpretations of this loop? Select all that apply.
+[*] The loop describes a self-sustaining structural inequity that does not require ongoing discriminatory intent at the individual level to persist.
+[*] The long delay on the closing edge reflects that structural inequities change slowly even when service availability improves.
+[*] The loop suggests that interventions targeting only one element (for example, transportation alone) may be insufficient if other elements continue to operate.
+[ ] The loop indicates that inequitable access is exogenous to the health system.
+[ ] Reinforcing loops always produce growth toward better outcomes.
+
+Title: S51_06 Loop polarity check
+Points: 1
+1.  In your R1 "Structural Access Inequity" loop, the edge from inequitable_access_to_resources to transportation_access is labeled negative, and the edge from preventive_service_availability back to inequitable_access_to_resources is also labeled negative. The remaining edges are positive. Counting the negative edges in the loop, how should this loop be classified?
+a)  Balancing — because there are negative edges in the loop.
+*b) Reinforcing — because the loop contains an even number of negative edges (two), which means changes around the loop amplify in the same direction.
+c)  Neither — feedback loops cannot be classified by counting negatives.
+d)  Both — the loop is simultaneously balancing and reinforcing.
+
+% =====================================================================
+% SECTION C — REASONING ABOUT WHAT THE MAP CAN AND CANNOT EXPLAIN
+% =====================================================================
+
+Title: S51_07 No outcome stock
+Points: 2
+1.  Your team's map represents structural elements but does not include an explicit outcome stock for reproductive care access, abortion access, or maternal health outcomes. Which of the following are accurate consequences of this modeling choice? Select all that apply.
+[*] The map describes upstream conditions (coverage, infrastructure, workforce, inequity) but does not directly represent the health problem itself as a system state.
+[*] Feedback loops connecting structural elements to disease or outcome burden, and back to policy or funding, cannot be drawn.
+[*] Interpretation requires the reader to infer how the structural elements translate into reproductive care outcomes.
+[ ] The map is invalid as a system map.
+[ ] The omission has no analytical consequence.
+
+Title: S51_08 What state-level law is missing
+Points: 1
+1.  In the post-Dobbs U.S. context, state-level abortion bans and gestational age limits have produced large differences in reproductive care access across states. Your team's map represents state scope-of-practice laws but does not represent state-level abortion policy as a separate element. Which best characterizes the consequence of this boundary choice?
+a)  The choice has no consequence because state-level abortion policy is identical to scope-of-practice law.
+*b) The map can describe coverage, workforce, and structural inequity dynamics, but cannot directly represent how state-level abortion policy variation drives the geographic differences in reproductive care access since 2022.
+c)  The choice is invalid; all reproductive care maps must include abortion law.
+d)  State-level abortion policy is fully captured by Medicaid eligibility rules.
+
+% =====================================================================
+% SECTION D — APPLYING THE MAP
+% =====================================================================
+
+Title: S51_09 Leverage points from your map
+Points: 2
+1.  Using only the elements in your team's map, which of the following are best characterized as *structural* leverage points (rather than symptomatic responses) for improving reproductive care access? Select all that apply.
+[*] Broadening Medicaid eligibility rules to increase enrollment and reduce the uninsured population
+[*] Liberalizing scope-of-practice laws to expand primary care and specialist clinician supply over time
+[*] Investing in primary care facility availability and transportation access in under-resourced communities to weaken the R1 inequity loop
+[ ] Distributing emergency contraception kits to reduce unintended pregnancy (this is not represented as a structural element in your map)
+[ ] Funding patient travel costs across state lines (this is not represented as a structural element in your map)
+

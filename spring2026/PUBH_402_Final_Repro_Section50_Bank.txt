@@ -1,0 +1,94 @@
+Quiz title: PUBH 402 Final Exam — Reproductive Care Section 50 Anchored Bank
+Quiz description: Anchored questions for the Section 50 individual project on reproductive care access, including abortion. The student's final map (Module 7) includes 16 elements drawn from the canonical list (specialty_care_referral_availability, primary_care_coordination_capacity, medicaid_eligibility_rules, scope_of_practice_laws, capacity_for_administrative_processing, reimbursement_requirements, medicaid_enrollment, uninsured_population, household_out_of_pocket_spending, fee_for_service_payment_prevalence, drug_formulary_restrictions, preventive_service_availability, transportation_access, racialized_residential_segregation, specialist_clinician_supply, health_information_technology_interoperability) and one element added under the Module 4 new-element provision (reproductive_care_access). Loops: R1 "Preventive-care coordination structure" (acknowledged in the .dot file as a reinforcing structure rather than a strict empirical closed loop), B1 "Insurance-cost loop" (medicaid_enrollment, uninsured_population, household_out_of_pocket_spending). Calibrated up: items probe more sophisticated reasoning given the strength of the submitted work. NOTE FOR INSTRUCTOR: Verify against the submitted .dot before deployment.
+
+% =====================================================================
+% SECTION A — RECOGNITION OF YOUR OWN MAP
+% =====================================================================
+
+Title: S50_01 Element identification
+Points: 1
+1.  Which of the following elements appears in your final reproductive care system map? Select all that apply.
+[*] Primary care coordination capacity
+[*] Specialty care referral availability
+[*] Capacity for administrative processing
+[*] Health information technology interoperability
+[*] Reproductive care access
+[ ] Primary care clinician supply
+[ ] Inequitable access to health-promoting resources
+[ ] Employer-based insurance enrollment
+
+Title: S50_02 Justifying coordination over visit capacity
+Points: 1
+1.  Your element reconsideration explained why you chose primary care coordination capacity instead of primary care visit capacity. Which restatement of that reasoning is most defensible?
+a)  Primary care visit capacity is always more important than coordination capacity in any system.
+*b) The central problem in this system is whether patients can be moved through referral pathways and follow-up — a movement problem — rather than whether basic appointments exist, which makes coordination capacity the more analytically useful element.
+c)  Primary care coordination capacity is required by the assignment in all cases.
+d)  The two elements are interchangeable.
+
+Title: S50_03 Removed edge — reimbursement to specialist supply
+Points: 1
+1.  Your Module 7 map removes an earlier edge from reimbursement_requirements to specialist_clinician_supply, narrowing reimbursement_requirements to act through household_out_of_pocket_spending. Which is the most defensible reasoning for that revision?
+a)  Reimbursement requirements have no effect on the health system.
+*b) The cost-shifting pathway onto patients is more directly evidenced and analytically clean than a claim that reimbursement levels move total specialist supply, so the revised edge improves the precision of the model.
+c)  Specialist supply cannot be modeled in a system map.
+d)  All edges should be removed in later versions of a map.
+
+% =====================================================================
+% SECTION B — SOPHISTICATED INTERPRETATION OF YOUR MAP
+% =====================================================================
+
+Title: S50_04 R1 as reinforcing structure not strict loop
+Points: 2
+1.  Your .dot file explicitly labels R1 as a "reinforcing structure rather than a strict empirical closed loop." Which of the following are accurate consequences of this framing? Select all that apply.
+[*] The structure represents a co-amplifying relationship between preventive service availability, primary care coordination capacity, and specialty care referral availability without requiring a fully demonstrated empirical feedback closure.
+[*] Naming it as a structure rather than a strict loop reflects appropriate epistemic restraint about what the available evidence supports.
+[ ] The label means the structure has no analytic value and should be removed.
+[*] Treating it as a structure rather than a closed loop avoids overclaiming a feedback mechanism that the literature does not yet establish in measured form.
+[ ] Reinforcing structures and reinforcing loops are mathematically identical and should be labeled the same way.
+
+Title: S50_05 B1 mechanism scrutiny
+Points: 1
+1.  Your B1 Insurance-cost loop runs through medicaid_enrollment → household_out_of_pocket_spending and household_out_of_pocket_spending → medicaid_enrollment. The closing edge depends on the claim that rising out-of-pocket burden increases pressure for eligible uninsured people to enroll in Medicaid. Which assessment of this closing edge is most defensible?
+a)  The closing edge is unconditionally true at the population level and requires no qualification.
+*b) The closing edge is plausible but conditional — it operates only among populations that are eligible for Medicaid and aware of eligibility, and it depends on enrollment systems being navigable, so it is best read as a population-level pressure with substantial friction.
+c)  The closing edge is invalid; cost burden has no relationship to enrollment.
+d)  Out-of-pocket spending and Medicaid enrollment cannot be modeled together.
+
+Title: S50_06 Adding the outcome stock
+Points: 1
+1.  You added "Reproductive care access" as a new element under the Module 4 provision permitting structurally justified additions. Which restatement of your justification is most defensible?
+a)  The element was added because the assignment required it.
+*b) The element was added because the insurance/cost side of the map and the care-delivery side of the map otherwise read as parallel structures rather than one connected system; the added node makes the shared downstream outcome explicit and allows both sides to converge.
+c)  The element was added to increase the total element count.
+d)  No justification is required for added elements.
+
+Title: S50_07 What the boundary excludes
+Points: 2
+1.  Your map focuses on access dynamics (financial, geographic, coordination, workforce). It does not include elements representing state-level abortion bans, gestational age limits, or criminalization of providers. Which statements about this boundary choice are most defensible? Select all that apply.
+[*] The choice is consistent with the access-mechanism framing of the model and is internally coherent.
+[*] In the post-Dobbs U.S. context, the omission of state-level legal restrictions limits the map's ability to explain large differences in reproductive care access across states.
+[ ] State-level abortion law is structurally identical to scope-of-practice law and is fully captured by it.
+[*] A defensible extension would represent state abortion law as a structural element shaping specialist clinician supply, preventive service availability, and reproductive care access.
+[ ] The boundary choice has no implications for what the map can explain.
+
+% =====================================================================
+% SECTION C — APPLYING THE MAP
+% =====================================================================
+
+Title: S50_08 Leverage points from your map
+Points: 2
+1.  Using your map, which of the following are best characterized as *structural* leverage points (rather than symptomatic interventions) for improving reproductive care access? Select all that apply.
+[*] Broadening Medicaid eligibility rules to increase Medicaid enrollment among low-income reproductive-age people
+[*] Expanding capacity for administrative processing to reduce delays in coverage and referral pathways
+[ ] Funding individual travel grants to reach distant clinics (this is not represented as a structural element in your map)
+[*] Liberalizing state scope-of-practice laws to expand specialist clinician supply over time
+[*] Strengthening health information technology interoperability to support coordination across care settings
+
+Title: S50_09 What stigma and criminalization would add
+Points: 1
+1.  Suppose you added elements representing stigma toward people seeking reproductive care and criminalization of abortion provision. Which statement best describes how these additions would change what your map can explain?
+a)  They would weaken the map by introducing variables outside structural analysis.
+*b) They would allow the map to represent demand-side barriers and provider risk dynamics that currently sit outside the model — for example, why providers may decline to offer services even when they are legally permitted, and why patients may decline care even when it is formally available.
+c)  They would have no effect because the map already captures these dynamics.
+d)  Stigma and criminalization cannot be modeled as system elements.
+

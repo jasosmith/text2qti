@@ -1,0 +1,96 @@
+Quiz title: PUBH 402 Final Exam — Opioid Team A Anchored Bank (Revised)
+Quiz description: Anchored questions for the opioid team whose final system map uses 12 elements drawn entirely from the canonical element list: Medicaid eligibility rules, Medicaid enrollment, Reimbursement requirements, Specialist clinician supply, Pharmaceutical market concentration, Income security, Racialized residential segregation, Transportation access, Fee-for-service payment prevalence, Bundled payment use, Health information technology interoperability, Value-based payment adoption. This team built its map entirely from the provided list (a permitted choice). Anchored items emphasize (a) recognition of the team's own map, (b) defensible reasoning about what the structural boundary set by the element list permits the map to explain, and (c) structural application of the elements that are present. NOTE FOR INSTRUCTOR: Verify against the team's submitted .dot file and Module 4 element reconsideration before deployment.
+
+% =====================================================================
+% SECTION A — RECOGNITION OF YOUR OWN MAP
+% =====================================================================
+
+Title: TA01 Element identification
+Points: 1
+1.  Which of the following elements appears in your team's final system map for the opioid epidemic? Select all that apply.
+[*] Specialist clinician supply
+[*] Fee-for-service payment prevalence
+[*] Racialized residential segregation
+[*] Health information technology interoperability
+[*] Pharmaceutical market concentration
+[ ] Untreated opioid use disorder cases
+[ ] Overdose mortality
+[ ] Prescribing practices
+
+Title: TA02 Required category check
+Points: 1
+1.  Your team's element list was required to include at least one element from the Financing/Insurance category. Which element from your team's map satisfies this requirement?
+a)  Reimbursement requirements
+*b) Medicaid enrollment
+c)  Specialist clinician supply
+d)  Health information technology interoperability
+
+Title: TA03 Polarity check
+Points: 1
+1.  In your team's final map, the relationship between Medicaid eligibility rules and Medicaid enrollment is drawn with a particular polarity. Which polarity is most defensible — and consistent with how restrictive eligibility rules affect enrollment?
+a)  Positive: more restrictive rules increase enrollment.
+*b) Negative: more restrictive eligibility rules decrease Medicaid enrollment.
+c)  No polarity can be assigned; the relationship is undefined.
+d)  Both directions simultaneously, with no net effect.
+
+% =====================================================================
+% SECTION B — REASONING ABOUT WHAT THE MAP CAN AND CANNOT EXPLAIN
+% Reframed: probes what the canonical element list permits the map to
+% explain, rather than whether the team made bad choices.
+% =====================================================================
+
+Title: TA04 What the structural boundary captures
+Points: 2
+1.  Your team built its map entirely from the canonical element list. The list emphasizes structural features of the U.S. health system (financing, payment, workforce, structural determinants and inequities). Which of the following questions about the opioid epidemic is your team's map well positioned to address? Select all that apply.
+[*] How financing and payment structures affect access to clinicians who can treat OUD.
+[*] How structural inequities such as racialized residential segregation shape the geographic distribution of access.
+[ ] How illicit fentanyl supply has driven the rise in overdose deaths since 2013.
+[*] How Medicaid eligibility rules influence the size of the uninsured population at risk of unmet treatment needs.
+[ ] What individual clinical interventions are most effective for sustained recovery.
+
+Title: TA05 What the structural boundary cannot capture
+Points: 2
+1.  Using only elements from the canonical list, which aspects of the opioid epidemic is your team's map *not* well positioned to explain? Select all that apply.
+[*] The historical role of pharmaceutical marketing and aggressive prescribing in producing the first wave of the epidemic.
+[*] The shift to illicit fentanyl as the dominant driver of overdose mortality.
+[*] How stigma and criminalization shape whether people with OUD seek care.
+[ ] How payment models structure clinician incentives.
+[ ] How structural determinants such as income security and transportation affect access.
+
+Title: TA06 Feedback structure given the boundary
+Points: 1
+1.  Building a feedback loop using only elements from the canonical list — without explicit outcome stocks for OUD or overdose — requires reasoning about how structural elements influence each other. Which statement most accurately describes a defensible loop construction strategy?
+a)  No feedback loop is possible without an outcome stock.
+*b) A loop running through Medicaid enrollment, Specialist clinician supply, and payment or reimbursement structures is possible if the relationships close back, though loops without an outcome stock describe self-regulation of the structural system rather than disease dynamics.
+c)  Feedback loops require at least one Pharmaceuticals element.
+d)  Feedback loops are optional in this course.
+
+Title: TA07 Defensibility of an edge
+Points: 1
+1.  Your team's map includes a directed edge from Specialist clinician supply to Pharmaceutical market concentration with positive polarity. Which assessment of this edge is most defensible?
+a)  It is well-supported because more specialists always increase pharmaceutical market concentration.
+*b) The mechanism is unclear; pharmaceutical market concentration is shaped primarily by patents, mergers, and regulatory structure rather than by specialist workforce supply, so this edge requires stronger justification or revision.
+c)  The polarity should be reversed but the relationship is otherwise valid.
+d)  No critique is possible because all causal relationships are equally defensible.
+
+% =====================================================================
+% SECTION C — APPLYING THE MAP TO THE OPIOID PROBLEM
+% =====================================================================
+
+Title: TA08 Leverage from your map
+Points: 2
+1.  Using only the elements in your team's final system map, which of the following interventions could plausibly be analyzed as a structural leverage point (rather than a symptomatic response) for reducing the opioid epidemic? Select all that apply.
+[*] Expanding Medicaid eligibility to increase enrollment among low-income adults at risk of OUD
+[*] Shifting from fee-for-service to value-based or bundled payment to change clinician incentives
+[*] Strengthening reimbursement requirements that affect clinician participation in OUD treatment
+[ ] Distributing naloxone in community settings (this is not represented in your map)
+[ ] Restricting illicit fentanyl supply (this is not represented in your map)
+
+Title: TA09 What an outcome stock would add
+Points: 1
+1.  Module 4 of this course permits teams to propose new elements outside the canonical list when they can be structurally justified. Suppose your team had added an element such as "Untreated OUD cases" or "Overdose mortality." Which statement best describes how adding such an outcome stock would change what your map can explain?
+a)  It would weaken the map by introducing variables outside the structural focus of the course.
+*b) It would allow the map to represent feedback loops in which the burden of disease itself drives funding, policy, or capacity responses, connecting the structural elements to health outcomes.
+c)  It would have no effect on the map's explanatory power.
+d)  It would invalidate the map under the rules of the assignment.
+

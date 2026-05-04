@@ -1,0 +1,129 @@
+Quiz title: PUBH 402 Final Exam — Reproductive Care General Bank
+Quiz description: General reproductive care (including abortion) items combining factual recall (epidemiology, policy history, financing of reproductive services) with causal reasoning. Usable for any reproductive care team. Drafted for review — point values and distractors should be stress-tested before deployment.
+
+% =====================================================================
+% SECTION A — FACTUAL ITEMS
+% Course Learning Objectives 1, 2, 3.
+% =====================================================================
+
+Title: RG01 Dobbs decision
+Points: 1
+1.  In June 2022, the U.S. Supreme Court issued the Dobbs v. Jackson Women's Health Organization decision. The decision's most direct legal effect on abortion access in the United States was to:
+a)  Establish a federal right to abortion in all 50 states.
+*b) Overturn Roe v. Wade and return primary regulatory authority over abortion to the states.
+c)  Ban abortion in all states under federal law.
+d)  Require all states to provide Medicaid coverage for abortion.
+
+Title: RG02 Hyde Amendment
+Points: 1
+1.  The Hyde Amendment, first passed in 1976 and renewed annually since, restricts which of the following?
+a)  State Medicaid coverage of contraception.
+*b) Use of federal Medicaid funds to pay for most abortion services.
+c)  Private insurance coverage of abortion in all states.
+d)  Provision of abortion services by federally qualified health centers.
+
+Title: RG03 Title X
+Points: 1
+1.  The federal Title X program is best described as:
+*a) A federal grant program supporting family planning and related preventive health services, primarily for low-income and uninsured patients.
+b)  A Medicaid expansion provision specifically for reproductive care.
+c)  A federal abortion-coverage program.
+d)  A private insurance subsidy for contraceptive services.
+
+Title: RG04 Mifepristone and medication abortion
+Points: 1
+1.  Medication abortion in the United States typically involves which of the following two-drug regimen?
+a)  Methotrexate and naloxone
+*b) Mifepristone and misoprostol
+c)  Levonorgestrel and ulipristal
+d)  Oxytocin and methotrexate
+
+
+
+Title: RG06 Maternity care deserts
+Points: 1
+1.  The term "maternity care desert" is most often used to describe:
+a)  Counties in which no obstetrician-gynecologists are licensed at all in any specialty.
+*b) Counties with no hospitals providing obstetric care, no birth centers, and no obstetric or certified nurse-midwife providers.
+c)  Counties where Medicaid does not cover prenatal care.
+d)  Urban areas with the highest density of obstetric providers.
+
+Title: RG07 Travel for abortion post-Dobbs
+Points: 1
+1.  Multiple studies since 2022 have documented an increase in average travel distance and travel time for U.S. abortion patients. The most direct structural cause of this change is:
+a)  Closure of all abortion clinics nationwide.
+*b) State-level abortion bans and restrictions following Dobbs, which concentrated remaining services in fewer states.
+c)  An increase in the number of abortion providers in restrictive states.
+d)  A decrease in demand for abortion services.
+
+Title: RG08 ACA contraceptive coverage
+Points: 1
+1.  Under the Affordable Care Act's preventive services provisions, most non-grandfathered private health plans are required to cover which of the following without patient cost-sharing?
+a)  Inpatient hospital deliveries only.
+*b) FDA-approved contraceptive methods and counseling for women, with limited religious exemptions.
+c)  Elective abortion services.
+d)  Cosmetic gynecology procedures.
+
+% =====================================================================
+% SECTION B — CAUSAL REASONING SCENARIOS
+% =====================================================================
+
+Title: RG09 Trigger ban dynamics
+Points: 2
+1.  Following the Dobbs decision, several states implemented "trigger ban" laws that prohibited most abortions. Researchers documented that the closure of clinics in those states was associated with an increase in clinic volumes in neighboring states without bans. From a systems perspective, which of the following best characterize this pattern? Select all that apply.
+[*] Demand was not eliminated; it was redistributed across state lines, creating new geographic and financial barriers.
+[*] The structural change shifted travel burden from in-state to out-of-state, concentrating costs on patients with fewer resources.
+[ ] Closure of clinics in trigger-ban states reduced national demand for abortion services to near zero.
+[*] The system response illustrates that state-level bans can produce regional rather than purely state-level effects on access.
+[ ] The pattern shows that abortion bans had no measurable effect on access.
+
+Title: RG10 Coverage vs access
+Points: 1
+1.  A state expands Medicaid eligibility, increasing enrollment among low-income reproductive-age women. Two years later, evaluations show only modest increases in receipt of preventive reproductive services. Which structural explanation is most consistent with a systems analysis?
+a)  Medicaid coverage is unrelated to preventive service use.
+*b) Coverage is a necessary but not sufficient condition for access; provider supply, geographic distribution, transportation, administrative friction, and clinical capacity also constrain utilization.
+c)  The expansion was administered incorrectly.
+d)  Preventive services have no measurable effect on reproductive health outcomes.
+
+Title: RG11 Workforce delay
+Points: 1
+1.  A state liberalizes its scope-of-practice laws to allow advanced-practice nurses and certified nurse-midwives to provide a broader range of reproductive services. Two years later, the supply of these clinicians providing reproductive care has changed only modestly. Which feature of system structure best explains the slow response?
+a)  Scope-of-practice laws have no effect on workforce supply.
+*b) Workforce supply responds to legal changes with substantial delay because clinician training, credentialing, hiring, and organizational adoption all take time.
+c)  Scope-of-practice changes always reduce clinician supply.
+d)  The delay shows that the law is unenforceable.
+
+Title: RG12 Endogenous vs exogenous — state policy
+Points: 1
+1.  A team modeling reproductive care access treats "state abortion policy" as exogenous — entering the system from outside health system structure. Which critique of this boundary choice is most defensible?
+a)  The choice is invalid; state policy is always endogenous to health systems.
+*b) The choice is defensible but consequential — treating state policy as exogenous means the model cannot represent how health system actors, advocacy organizations, and electoral dynamics shape policy in return.
+c)  The choice is required by systems thinking.
+d)  Boundary choices have no analytical implications.
+
+Title: RG13 Reinforcing inequity loop
+Points: 2
+1.  Researchers have documented that areas with greater racialized residential segregation tend to have fewer reproductive health providers, weaker public transportation, and lower preventive service utilization, which are associated with worse maternal and reproductive health outcomes — which in turn shape further patterns of disinvestment. From a systems perspective, this pattern is best characterized as: Select all that apply.
+[*] A reinforcing feedback loop in which structural inequity, infrastructure, and access outcomes mutually sustain one another over time.
+[*] A pattern that requires structural intervention rather than individual behavior change to break.
+[ ] A balancing loop because outcomes eventually stabilize.
+[*] An example of how structure can produce harmful outcomes without requiring discriminatory intent at the individual level.
+[ ] Evidence that segregation has no relationship to health system structure.
+
+Title: RG14 Symptom vs structure
+Points: 2
+1.  Which of the following responses to reduced reproductive care access operate primarily at the level of *downstream symptoms* rather than altering structural drivers? Select all that apply.
+[*] Funding patient travel costs to reach abortion services in another state.
+[*] Crowdfunding emergency contraceptive supplies for individual patients.
+[ ] Restoring federal protections that prevent state-level abortion bans.
+[ ] Expanding Medicaid eligibility to increase coverage for low-income reproductive-age adults.
+[*] Telling patients to call multiple clinics until they find an opening.
+
+Title: RG15 Performative vs structural
+Points: 1
+1.  A state legislature passes a non-binding resolution declaring its commitment to "supporting maternal health" but takes no action to expand Medicaid postpartum coverage, fund maternity care, or address provider shortages. Five years later, maternal outcomes have not improved. From a systems perspective, this resolution is best characterized as:
+a)  A high-leverage structural intervention.
+*b) A primarily performative response that signals concern without altering the financing, regulatory, or workforce structures producing maternal health outcomes.
+c)  Evidence that resolutions are always effective.
+d)  A reinforcing loop that worsened maternal mortality.
+
